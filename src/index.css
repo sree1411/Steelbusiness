@@ -35,6 +35,16 @@
   align-items: center;
   }
 
+
+  .company-name {
+    background-image: linear-gradient(to right, #4f93ff, #0056b3); /* Gradient colors */
+    color: #ffffff; /* Text color */
+    padding: 8px 16px; /* Adjust padding */
+    border-radius: 4px; /* Rounded corners */
+  }
+
+
+
  
   header {
     background-color: #336699; /* Set background color */

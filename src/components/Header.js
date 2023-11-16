@@ -13,7 +13,7 @@ export const Header = () => {
     <div class="flex flex-wrap justify-center items-center mx-auto max-w-screen-xl p-4">
         <Link to="/" class="flex items-center space-x-3 rtl:space-x-reverse">
             <img src={Logo} class="h-8" alt={Logo} />
-            <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Steel and Alumninum Business</span>
+            <span className="self-center text-2xl font-semibold whitespace-nowrap company-name">Steel and Aluminum Business</span>
         </Link>
     </div>
 </nav>
